@@ -1,11 +1,11 @@
-# Flow · Task Manager
+# Benny's Tasks · Task Manager
 
 A fast, polished task manager built as a portfolio piece. Organize work into
 lists, set priorities and due dates, tag and search, then drag tasks into the
 order that matters. Everything is local-first and persists in the browser — no
 backend required.
 
-![Flow screenshot](docs/screenshot.png)
+![Benny's Tasks screenshot](docs/screenshot.png)
 
 ## Features
 

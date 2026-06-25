@@ -71,7 +71,7 @@ export function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
         </div>
         <div>
           <p className="font-display text-base font-bold leading-none tracking-tight">
-            Flow
+            Benny's Tasks
           </p>
           <p className="mt-1 text-[11px] text-slate-500 dark:text-slate-400">
             Task manager

@@ -228,7 +228,7 @@ export const useTodoStore = create<TodoState>()(
         set((s) => ({ theme: s.theme === 'dark' ? 'light' : 'dark' })),
     }),
     {
-      name: 'flow-todo-store',
+      name: 'bennys-tasks-store',
       version: 1,
       partialize: (s) => ({
         tasks: s.tasks,
